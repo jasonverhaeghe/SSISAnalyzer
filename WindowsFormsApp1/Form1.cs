@@ -232,7 +232,7 @@ namespace WindowsFormsApp1
 
         private void btnProcess_Click(object sender, EventArgs e)
         {
-            if (txtDirectory.Text != "" && txtTables.Text != "")
+            if (txtDirectory.Text != "")
             {
                 try
                 {
