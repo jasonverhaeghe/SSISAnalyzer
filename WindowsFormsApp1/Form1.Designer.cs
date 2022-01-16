@@ -68,7 +68,7 @@ namespace WindowsFormsApp1
             this.txtDirectory.Name = "txtDirectory";
             this.txtDirectory.Size = new System.Drawing.Size(386, 20);
             this.txtDirectory.TabIndex = 5;
-            this.txtDirectory.Text = "C:\\TEMP\\BI ETL.SSIS.DWH_Facts";
+            this.txtDirectory.Text = "C:\\temp\\BarcSafe\\";
             // 
             // btnProcess
             // 
@@ -133,7 +133,7 @@ namespace WindowsFormsApp1
             this.txtDirectoryToSave.Name = "txtDirectoryToSave";
             this.txtDirectoryToSave.Size = new System.Drawing.Size(386, 20);
             this.txtDirectoryToSave.TabIndex = 11;
-            this.txtDirectoryToSave.Text = "C:\\TEMP\\";
+            this.txtDirectoryToSave.Text = "C:\\temp\\BarcSafe\\txtfiles\\";
             // 
             // btnBrowseLocationToSaveFiles
             // 
